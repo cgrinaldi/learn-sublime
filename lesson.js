@@ -134,7 +134,9 @@ aFunc("Mia");
 //
 // ============================================================
 // Exercise: This wasn't covered in the lesson above, but there
-// is another way to create multiple cursors.
+// is another way to create multiple cursors. In fact, you may
+// have noticed that the other approach was somewhat destructive.
+// This will help!
 //
 // You can perform column selection using `Option + Mouse Drag`.
 // Give it a shot by redoing what you did in the previous
