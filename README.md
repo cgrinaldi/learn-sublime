@@ -19,9 +19,11 @@ Please feel free to fork this repo and create your own lessons (or edit already 
 I think together we will be able to make a collection of lessons that will help us get better at ST3.
 
 ## Next Steps
-I've started creating a few lessons that will hopefully help you practice some ST3 shortcuts. To see which ones are available, type `git branch -r` in your local repo to see which ones are available on Github.
+I've started creating a few lessons that will hopefully help you practice some ST3 shortcuts. To see which ones are available, type `git branch -r` in your local repo to see which ones are available on Github. Then, use `git checkout <LESSON-NAME>` to work through a particular lesson.
 
-Alternatively, I've included a list of the current lessons identified by branch names, along with a short description.
+If at any point you wish to reset your work, simply save the file and then use `git checkout .` and you will return to the original state of the lesson.
+
+Below is a list of the current lessons identified by branch names, along with a short description.
 
 ## Lessons
 
@@ -29,6 +31,6 @@ Alternatively, I've included a list of the current lessons identified by branch 
 * [(multiple-cursors)](https://github.com/cgrinaldi/learn-sublime/tree/multiple-cursors): A lesson on how to use ST3's multiple cursors to replace multiple words.
 
 ## Additional Resources
-These lessons were created using the following resources:
+The below resources were referenced when making the above lessons:
 
 *  [Perfect Workflow in Sublime Text 2](https://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2/)
