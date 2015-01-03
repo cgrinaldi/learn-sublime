@@ -3,7 +3,7 @@
 ## Introduction
 Below are different ST3 shortcuts. Please feel free to add any that are missing!
 
-## Multiple Cursors
+### Multiple Cursors
 
 | Shortcut Description            | Key Combinations         |
 | ------------------------------- | ------------------------ |
@@ -11,14 +11,14 @@ Below are different ST3 shortcuts. Please feel free to add any that are missing!
 | Highlight All Matches | Command + Ctrl + G |
 | Add Multiple Cursors to Selection | Shift + Command + L |
 
-## Search
+### Search
 
 | Shortcut Description            | Key Combinations         |
 | ------------------------------- | ------------------------ |
 | Find and Replace | Command + Option + F |
 | Incremental Search | Command + I |
 
-## Selection
+### Selection
 
 | Shortcut Description            | Key Combinations         |
 | ------------------------------- | ------------------------ |
