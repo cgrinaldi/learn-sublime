@@ -19,9 +19,9 @@ Please feel free to fork this repo and create your own lessons (or edit already 
 I think together we will be able to make a collection of lessons that will help us get better at ST3.
 
 ## Next Steps
-I've started creating a few lessons that will hopefully help you practice some ST3 shortcuts. To see which ones are available, type `git branch -r` in your local repo to see which ones are available on Github. Then, use `git checkout <LESSON-NAME>` to work through a particular lesson.
+To see which lessons are available, type `git branch -r` in your local repo to see which ones are available on Github. Then, use `git checkout <LESSON-NAME>` to work through a particular lesson.
 
-If at any point you wish to reset your work, simply save the file and then use `git checkout .` and you will return to the original state of the lesson.
+If at any point you wish to reset your work, simply save the file and then use `git checkout .` and you will be returned to the original state of the lesson.
 
 Below is a list of the current lessons identified by branch names, along with a short description.
 
