@@ -91,3 +91,51 @@ aFunc("Mia");
 //
 // And that is the power of multiple cursors!
 
+// ##########################################
+// QUIZ TIME!
+// ##########################################
+
+// So the only way to get better at this is to constantly
+// practice these commands.
+//
+// ============================================================
+// Exercise: Instead of saying 'Jack' in every line, use multiple
+// cursors to change the name for every set of two.
+//
+// For example, the first two lines will say 'Alice', the next
+// two lines will say 'Bob', etc.
+
+// Jack is becoming a Sublime Text master with multiple cursors
+// Jack is becoming a Sublime Text master with multiple cursors
+// Jack is becoming a Sublime Text master with multiple cursors
+// Jack is becoming a Sublime Text master with multiple cursors
+// Jack is becoming a Sublime Text master with multiple cursors
+// Jack is becoming a Sublime Text master with multiple cursors
+// Jack is becoming a Sublime Text master with multiple cursors
+// Jack is becoming a Sublime Text master with multiple cursors
+// Jack is becoming a Sublime Text master with multiple cursors
+// Jack is becoming a Sublime Text master with multiple cursors
+//
+// ============================================================
+// Exercise: Replace all of the below occurrences of
+// 'zebra' with 'JavaScript' and 'stupid' with 'you awesome person'.
+// You should be able to do this in one go.
+
+// Jack is becoming a zebra master, stupid.
+// Jack is becoming a zebra master, stupid.
+// Jack is becoming a zebra master, stupid.
+// Jack is becoming a zebra master, stupid.
+// Jack is becoming a zebra master, stupid.
+// Jack is becoming a zebra master, stupid.
+// Jack is becoming a zebra master, stupid.
+// Jack is becoming a zebra master, stupid.
+// Jack is becoming a zebra master, stupid.
+// Jack is becoming a zebra master, stupid.
+//
+// ============================================================
+// Exercise: This wasn't covered in the lesson above, but there
+// is another way to create multiple cursors.
+//
+// You can perform column selection using `Option + Mouse Drag`.
+// Give it a shot by redoing what you did in the previous
+// exercise, using this new shortcut.
