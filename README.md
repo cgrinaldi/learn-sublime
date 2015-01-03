@@ -10,6 +10,7 @@ Below are different ST3 shortcuts. Please feel free to add any that are missing!
 | Highlight Next Match | Command + D |
 | Highlight All Matches | Command + Ctrl + G |
 | Add Multiple Cursors to Selection | Shift + Command + L |
+| Column Selection | Option + Mouse Drag
 
 ### Search
 
