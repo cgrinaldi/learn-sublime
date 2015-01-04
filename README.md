@@ -7,6 +7,7 @@ This lesson will help you practice _Goto Anything_. The commands covered in this
 * Goto Anything: `Command + P`
 * Toggle Sidebar: `Command + K, Command + B`
 * Close a Tab: `Command + W`
+* Tab Cycling: `Shift + Command + [ (or ])`
 
 There are a number of files in this repo, but start at lesson.md for instructions on how to proceed through the lesson.
 
