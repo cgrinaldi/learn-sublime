@@ -1,7 +1,7 @@
 # Summary of Sublime Text 3 Shortcuts
 
 ## Introduction
-Below are different ST3 shortcuts. I've also included links to the branches in the repo where there is a lesson/exercise concerning the shortcut. Please feel free to add any that are missing!
+Below are different ST3 shortcuts. Links are included to the branches in the repo where there is a lesson/exercise concerning the shortcut. Please feel free to add any that are missing!
 
 ## Shortcuts
 
