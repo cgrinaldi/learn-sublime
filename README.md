@@ -24,3 +24,8 @@ Below are different ST3 shortcuts. I've also included links to the branches in t
 | Shortcut Description            | Key Combinations         |
 | ------------------------------- | ------------------------ |
 | [Column Selection](https://github.com/cgrinaldi/learn-sublime/tree/multiple-cursors) | `Option + Mouse Drag`
+
+### Empty Table
+| Shortcut Description            | Key Combinations         |
+| ------------------------------- | ------------------------ |
+| Shortcut description here | key combination here
