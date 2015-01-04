@@ -38,6 +38,13 @@ Below are different ST3 shortcuts. I've also included links to the branches in t
 | ------------------------------- | ------------------------ |
 | [Column Selection](https://github.com/cgrinaldi/learn-sublime/tree/multiple-cursors) | `Option + Mouse Drag`
 
+### Tabs
+| Shortcut Description            | Key Combinations         |
+| ------------------------------- | ------------------------ |
+| [Close Tab](https://github.com/cgrinaldi/learn-sublime/tree/goto-anything) | `Command + W` |
+| Cycle Left Through Tabs | `Shift + Command + [ |
+| Cycle Right Through Tabs | `Shift + Command + ] |
+
 ### Empty Table
 | Shortcut Description            | Key Combinations         |
 | ------------------------------- | ------------------------ |
