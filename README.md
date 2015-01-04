@@ -13,8 +13,8 @@ Below are different ST3 shortcuts. I've also included links to the branches in t
 ### File Navigation
 | Shortcut Description            | Key Combinations         |
 | ------------------------------- | ------------------------ |
-| Goto Anything | `Ctrl + P`
-| Toggle Sidebar | `Commmand + K, Command + B`
+| [Goto Anything](https://github.com/cgrinaldi/learn-sublime/tree/goto-anything) | `Ctrl + P`
+| [Toggle Sidebar](https://github.com/cgrinaldi/learn-sublime/tree/goto-anything) | `Commmand + K, Command + B`
 
 ### Multiple Cursors
 
