@@ -20,7 +20,7 @@ The first step is to become familiar with the file structure. At this point, we 
 
 To do so, use `Command + K, Command + B`. If the sidebar was not already present, it will appear. Make sure your sidebar is open.
 
-As you can see, our current project has a number of files, some of which are nested in directories. Take a moment open expand all of the directories to see which files are where.
+As you can see, our current project has a number of files, some of which are nested in directories. Take a moment to expand all of the directories to see which files are where.
 
 ### Step 2: Open the Individual Files
 
@@ -44,11 +44,13 @@ Type the above shortcut and you will see a menu appear. This menu will list all 
 
 **Exercise**: With the files open, quickly navigate between the different tabs using _Goto Anything_.
 
+NOTE: Another trick to navigating between tabs is the following: `Shift + Command + [` and `Shift + Command + ]`
+
 ### Step 4: Experiment with Fuzzy Matching
 
-When typing in the _Goto Anything_ input box, it is actually using fuzzy matching to search for the files. What that means is that it doesn't really care what order you put the characters in. It ranks each file's path to how similar it is to your input.
+When typing in the _Goto Anything_ input box, it is actually using fuzzy matching to search for the files. What this means is that it doesn't really care what order you put the characters in. It ranks each file's path to how similar it is to your input.
 
-What this means is that you can also search for specific directories, in case you don't quite remember the file name you are looking for.
+Using fuzzy matching, you can also search for specific directories, in case you don't quite remember the file name you are looking for.
 
 **Exercise**: Type "js" in the _Goto Anything_ input box. You should see only the files within the "js" directory appear.
 
@@ -76,7 +78,7 @@ In this file, in the _Goto Anything_ prompt, type ":10" and ENTER, and it will b
 
 ## Quiz Time!
 
-Since the only way to truly learn these keyboard commands is practice, practice, practice, here are some questions to test your skills with _Goto Anything_ and the other shortcuts introduced in this lesson.
+Since the only way to truly learn these keyboard commands is practice, here are some questions to test your skills with _Goto Anything_ and the other shortcuts introduced in this lesson.
 
 To begin, make sure this is the only file open (and remember to use the `Command + W` shortcut to close tabs!)
 
@@ -95,6 +97,10 @@ Switch between the following files, without pressing enter. README, styles.css, 
 ### Problem 4
 
 Using _Goto Anything_, first navigate to styles.css. Then, skip every 20 lines using _Goto Anything_, pressing enter after each time. (NOTE: Only do this for as long as you want, it is a long file!).
+
+### Problem 5
+
+Practice any combination of the above to see how quickly you can go!
 
 
 
