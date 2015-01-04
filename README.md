@@ -29,6 +29,7 @@ Below is a list of the current lessons identified by branch names, along with a 
 
 * [(summary)](https://github.com/cgrinaldi/learn-sublime/tree/summary): A listing of ST3 shortcuts and a description of what they do.
 * [(multiple-cursors)](https://github.com/cgrinaldi/learn-sublime/tree/multiple-cursors): A lesson on how to use ST3's multiple cursors.
+* [(goto-anything)](https://github.com/cgrinaldi/learn-sublime/tree/goto-anything): A lesson on using ST3's "Goto Anything" to quickly navigate a project.
 
 ## Additional Resources
 The below resources were referenced when making the above lessons:
