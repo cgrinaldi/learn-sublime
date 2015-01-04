@@ -5,8 +5,15 @@ Goto anything is a very powerful way to navigate your file system without having
 This lesson will help you practice goto anything. The commands covered in this branch are:
 
 * Goto Anything: `Command + P`
-* Toggle sidebar: `Command + K, Command + B`
+* Toggle Sidebar: `Command + K, Command + B`
+* Close a Tab: `Command + W`
 
 There are a number of files in this repo, but start at lesson.md for instructions on how to proceed through the lesson.
+
+To begin, make sure to do the following:
+
+File > Open... > learn-sublime (folder)
+
+This will open up the entire project and give you quick access to all of the files in this directory.
 
 Good luck!
