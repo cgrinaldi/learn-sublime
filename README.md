@@ -1,7 +1,7 @@
 # Learn and Practice Sublime Text 3 Shortcuts
 
 ## Introduction
-This project is about learning how to most effectively use Sublime Text 3 (ST3). While there are awesome tutorials on-line, many of them don't provide the space needed to actually practice, and internalize, the key shortcuts and options.
+This project is about learning how to most effectively use Sublime Text 3 (ST3). While there are awesome references on-line, many of them don't provide the space needed to actually practice, and internalize, the key shortcuts.
 
 Hopefully this project will give you just that, a way to practice using ST3 shortcuts that will make you wicked fast while coding!
 
@@ -29,7 +29,7 @@ Below is a list of the current lessons identified by branch names, along with a 
 
 * [(summary)](https://github.com/cgrinaldi/learn-sublime/tree/summary): A listing of ST3 shortcuts and a description of what they do.
 * [(multiple-cursors)](https://github.com/cgrinaldi/learn-sublime/tree/multiple-cursors): A lesson on how to use ST3's multiple cursors.
-* [(goto-anything)](https://github.com/cgrinaldi/learn-sublime/tree/goto-anything): A lesson on using ST3's "Goto Anything" to quickly navigate a project.
+* [(goto-anything)](https://github.com/cgrinaldi/learn-sublime/tree/goto-anything): A lesson on using ST3's _Goto Anything_ to quickly navigate a project.
 
 ## Additional Resources
 The below resources were referenced when making the above lessons:
