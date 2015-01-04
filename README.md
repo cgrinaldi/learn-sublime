@@ -42,8 +42,8 @@ Below are different ST3 shortcuts. Links are included to the branches in the rep
 | Shortcut Description            | Key Combinations         |
 | ------------------------------- | ------------------------ |
 | [Close Tab](https://github.com/cgrinaldi/learn-sublime/tree/goto-anything) | `Command + W` |
-| Cycle Left Through Tabs | `Shift + Command + [ |
-| Cycle Right Through Tabs | `Shift + Command + ] |
+| [Cycle Left Through Tabs](https://github.com/cgrinaldi/learn-sublime/tree/goto-anything) | `Shift + Command + [ |
+| [Cycle Right Through Tabs](https://github.com/cgrinaldi/learn-sublime/tree/goto-anything) | `Shift + Command + ] |
 
 ### Empty Table
 | Shortcut Description            | Key Combinations         |
