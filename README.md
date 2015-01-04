@@ -3,6 +3,17 @@
 ## Introduction
 Below are different ST3 shortcuts. I've also included links to the branches in the repo where there is a lesson/exercise concerning the shortcut. Please feel free to add any that are missing!
 
+### General
+| Shortcut Description            | Key Combinations         |
+| ------------------------------- | ------------------------ |
+| Command Palette | `Ctrl + Shift + P`
+
+### File Navigation
+| Shortcut Description            | Key Combinations         |
+| ------------------------------- | ------------------------ |
+| Goto Anything | `Ctrl + P`
+| Toggle Sidebar | `Commmand + K, Command + B`
+
 ### Multiple Cursors
 
 | Shortcut Description            | Key Combinations         |
