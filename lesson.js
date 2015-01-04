@@ -20,7 +20,7 @@
 //
 // For example, in the following code section, put your cursor on
 // `aFunc` and press `Command + D`. This will select the entire
-// name.
+// word.
 //
 // Now, continue to press `Command + D` and you will see the
 // other matches highlight as you continue to press it. Notice
