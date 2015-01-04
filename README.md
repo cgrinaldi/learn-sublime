@@ -1,8 +1,8 @@
 # Goto Anything in Sublime Text 3
 
-Goto anything is a very powerful way to navigate your file system without having to use the mouse, which can greatly enhance the speed with which you navigate a project.
+_Goto Anything_ is a very powerful way to navigate your file system without having to use the mouse, which can greatly enhance the speed with which you navigate a project.
 
-This lesson will help you practice goto anything. The commands covered in this branch are:
+This lesson will help you practice _Goto Anything_. The commands covered in this branch are:
 
 * Goto Anything: `Command + P`
 * Toggle Sidebar: `Command + K, Command + B`
