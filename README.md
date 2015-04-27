@@ -1,7 +1,7 @@
 # Learn and Practice Sublime Text 3 Shortcuts
 
 ## Introduction
-This project is about learning how to most effectively use Sublime Text 3 (ST3). While there are awesome references on-line, many of them don't provide the space needed to actually practice, and internalize, the key shortcuts.
+This project is about learning how to most effectively use **Sublime Text 3 (ST3)**. While there are awesome references on-line, many of them don't provide the space needed to actually practice, and internalize, the key shortcuts.
 
 Hopefully this project will give you just that, a way to practice using ST3 shortcuts that will make you wicked fast while coding!
 
